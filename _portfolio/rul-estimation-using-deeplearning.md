@@ -2,6 +2,18 @@
 title: "Remaining Useful Life Estimation using Convolutional Neural Network"
 excerpt: "Published a MATLAB doc article about using deep learning approach for predictive maintenance of industrial machinary"
 collection: portfolio
+categories:
+  - Deep Learning
+  - Predictive Maintenance
+tags:
+  - rul estimation
+  - timeseries
+  - matlab
+  - cnn
+  - lstm
+  - sensor data
+  - work project
+  - publication
 ---
 
 ## Objective

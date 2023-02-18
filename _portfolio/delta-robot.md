@@ -2,6 +2,14 @@
 title: "Accuracy-Centric Design & Fabrication of DELTA Parallel Manipulator"
 excerpt: "In udergrad capstone project, designed and fabricated a delta robot"
 collection: portfolio
+categories:
+  - Robotics
+  - Control Systems
+tags:
+  - matlab
+  - kinematics
+  - thesis
+  - publication
 ---
 
 DELTA platform is a 3 DOF parallel robotic manipulator – a popular positioning architecture for additive manufacturing applications. 

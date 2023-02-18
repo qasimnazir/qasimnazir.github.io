@@ -2,6 +2,21 @@
 title: "Predictive Maintenance for Utlrasonic Welding"
 excerpt: "Developed a novel online tool condition monitoring system for ultrasonic welding via sensor fusion and machine learning"
 collection: portfolio
+categories:
+  - Machine Learning
+  - Signal Processing
+  - Predictive Maintenance
+  - Big Data
+tags:
+  - classification
+  - feature generation
+  - hyperparameter tuning
+  - daq
+  - python
+  - matlab
+  - sensor data
+  - thesis
+  - publication
 ---
 
 This was my master's research work work at Univeristy of Illinois Urbana-Champaign. 

@@ -2,6 +2,22 @@
 title: "LSTM based early diagnosis of Sepsis-3"
 excerpt: "Developed a machine-learning based predicitve model for early detection of Sepsis which is a medical condition.<br/><img src='/images/500x300.png'>"
 collection: portfolio
+categories:
+  - Deep Learning
+  - Health Care
+  - Big Data
+tags:
+  - timeseries
+  - feature generation
+  - hyperparameter tuning
+  - python
+  - lstm
+  - sql
+  - pytorch
+  - pyspark
+  - google big query
+  - tabular data
+  - course project
 ---
 
 ## Objective

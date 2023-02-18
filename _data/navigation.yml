@@ -6,8 +6,14 @@ main:
   - title: "Portfolio"
     url: /portfolio/
     
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
 
   - title: "Publications"
     url: /publications/
+
+  - title: "Projects By Tags"
+    url: /tags/
+  
+  - title: "Projects By Category"
+    url: /categories/

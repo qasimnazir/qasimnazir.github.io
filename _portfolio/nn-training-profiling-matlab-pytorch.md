@@ -2,6 +2,20 @@
 title: "Performacne Comparison of Object Detection implementations in MATLAB and PyTorch"
 excerpt: "Profiled and compared instance segmentation neural network implementations in MATLAB and PyTorch"
 collection: portfolio
+categories:
+  - Deep Learning
+  - Software Testing
+  - Computer Vision
+tags:
+  - object segmentation
+  - object detection
+  - python
+  - pytorch
+  - matlab
+  - detectron
+  - cnn
+  - image data
+  - work project
 ---
 
 ## Objective

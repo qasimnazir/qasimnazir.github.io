@@ -2,6 +2,16 @@
 title: "Image Captioning using Convolutional Neural Networks"
 excerpt: "Re-implemented an existing paper and tuned hyper-parameters to improve score metrics."
 collection: portfolio
+categories:
+  - Deep Learning
+  - Computer Vision
+tags:
+  - image captioning
+  - python
+  - pytorch
+  - cnn
+  - image data
+  - course project
 ---
 
 ## Objective

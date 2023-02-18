@@ -2,6 +2,16 @@
 title: "Africa Soil Property Prediction and Clustering"
 excerpt: "Developed a regression model to predict soil proprties using spectroscopy data."
 collection: portfolio
+categories:
+  - Machine Learning
+  - Data Science
+tags:
+  - regression
+  - feature generation
+  - hyperparameter tuning
+  - python
+  - tabular data
+  - course project
 ---
 
 ## Objective

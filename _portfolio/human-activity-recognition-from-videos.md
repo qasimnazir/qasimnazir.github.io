@@ -2,6 +2,16 @@
 title: "Human Activity Recognition from videos"
 excerpt: "Trained deep learning models for classifying human activity from a video."
 collection: portfolio
+categories:
+  - Deep Learning
+  - Computer Vision
+tags:
+  - classification
+  - python
+  - pytorch
+  - cnn
+  - image data
+  - course project
 ---
 
 ## Methodology
