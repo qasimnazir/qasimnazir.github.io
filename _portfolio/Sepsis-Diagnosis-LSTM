@@ -2,6 +2,9 @@
 title: "LSTM based early diagnosis of Sepsis-3"
 excerpt: "Developed a machine-learning based predicitve model for early detection of Sepsis which is a medical condition.<br/><img src='/images/500x300.png'>"
 collection: portfolio
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 ---
 
 **LSTM based early diagnosis of Sepsis-3** ([github repo](https://github.com/qasimnazir/LSTM-based-Sepsis-Prediciton))
