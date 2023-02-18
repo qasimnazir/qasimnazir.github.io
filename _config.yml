@@ -18,7 +18,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Qasim Nazir"
   avatar           : "qasim_dp.png"
-  bio              : "Software Engineer in Test | Machine Learning | Deep Learning | Big Data Analytics | Python Developer"
-  location         : "Urbana, IL"
+  bio              : "Python Developer | Machine Learning Engineer | Software Tester"
+  location         : "Boston, MA"
   employer         : "MathWorks Inc."
   pubmed           : 
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : https://scholar.google.com/citations?user=5RgMoO8AAAAJ&hl=en
   email            : qasimnazir11@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -235,7 +235,7 @@ defaults:
       layout: single
       author_profile: false
       share: true
-      comment: true
+      comment: false
   # _talks
   - scope:
       path: ""
