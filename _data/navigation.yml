@@ -17,3 +17,45 @@ main:
   
   - title: "Projects By Category"
     url: /categories/
+
+categories-sidebar:
+  - title: "Categories"
+    children:
+      - title: "Scientific Computing"
+        url: /categories/#data-science
+      - title: "Machine Learning"
+        url: /categories/#machine-learning
+      - title: "Deep Learning"
+        url: /categories/#deep-learning
+      - title: "Data Visualization"
+        url: /categories/#data-visualization
+      - title: "Big Data Analytics"
+        url: /categories/#big-data
+      - title: "Predicitve Maintenance"
+        url: /categories/#predicitve-maintenance
+      - title: "Computer Vision"
+        url: /categories/#computer-vision
+      - title: "Signal Processing"
+        url: /categories/#signal-processing
+      - title: "Natural Language Processing"
+        url: /categories/#nlp
+
+tags-sidebar:
+  - title: "Tags"
+    children:
+      - title: "tensorflow"
+        url: /tags/#tensorflow
+      - title: "pytorch"
+        url: /tags/#pytorch
+      - title: "sklearn"
+        url: /tags/#sklearn
+      - title: "opencv"
+        url: /tags/#opencv
+      - title: "numpy"
+        url: /tags/#numpy
+      - title: "pandas"
+        url: /tags/#pandas
+      - title: "scipy"
+        url: /tags/#scipy
+      - title: "opencv"
+        url: /tags/#opencv
