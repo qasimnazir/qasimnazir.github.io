@@ -18,6 +18,7 @@ main:
   - title: "Projects By Category"
     url: /categories/
 
+# projects by categories
 categories-sidebar:
   - title: "Categories"
     children:
@@ -40,6 +41,7 @@ categories-sidebar:
       - title: "Natural Language Processing"
         url: /categories/#nlp
 
+# projects by categories
 tags-sidebar:
   - title: "Tags"
     children:
